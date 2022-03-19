@@ -108,6 +108,10 @@
     margin-left: 40px;
     width: 150px;
   }
+  .button a {
+    padding:15px 20px 15px 25px;
+
+  }
   .logo:nth-child(1) {
     border-radius: 7px 7px 0px 0px;
     background-color: rgb(227, 136, 38);
