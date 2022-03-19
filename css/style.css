@@ -105,14 +105,14 @@
     padding-bottom: 50px;
   }
   .button {
-    height:100px;
+    height:auto;
     margin-top: 50px;
     margin-left: 40px;
-    width: 110px;
+    width: 210px;
   }
   .button a {
     padding:10px;
-    width:110px;
+    width:210px;
 
   }
   .logo:nth-child(1) {
