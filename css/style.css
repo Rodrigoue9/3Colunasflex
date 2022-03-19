@@ -52,13 +52,13 @@
 }
 
 .button {
-  height:100px;
+ height:auto;
   margin-top: 100px;
   margin-left: 40px;
-  width: 110px;
+  width: auto;
 }
 .button a {
-  padding: 15px 15px 15px 15px;
+ padding:20px 30px 20px 30px;
   width: 110px;
   background-color: rgb(255, 255, 255);
   
@@ -104,11 +104,14 @@
     padding-top: 30px;
     padding-bottom: 50px;
   }
- 
+ .button{
+  width: auto;
+  height: auto;
+}
   .button a {
-    padding:10px;
-    width:210px;
-
+     padding:20px 30px 20px 30px;
+    width:410px;
+    height: 100px;
   }
   .logo:nth-child(1) {
     border-radius: 7px 7px 0px 0px;
