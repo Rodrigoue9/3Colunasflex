@@ -60,7 +60,7 @@
   padding: 15px 15px 15px 15px;
   width: 110px;
   background-color: rgb(255, 255, 255);
-  text-align: center;
+  
   border-radius: 30px;
   text-decoration: none;
   color: rgb(0, 109, 73);
@@ -110,6 +110,7 @@
   }
   .button a {
     padding:10px;
+    width:110px;
 
   }
   .logo:nth-child(1) {
