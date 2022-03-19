@@ -54,10 +54,10 @@
 .button {
   margin-top: 100px;
   margin-left: 40px;
-  width: 130px;
+  width: 110px;
 }
 .button a {
-  padding: 15px 20px 15px 25px;
+  padding: 15px 10px 15px 15px;
   width: 150px;
   background-color: rgb(255, 255, 255);
   text-align: center;
